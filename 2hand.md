@@ -2,4 +2,4 @@
  
 *電飯煲*
 
-![電飯煲](https://drive.google.com/file/d/1T2ulYOPjkrZHuyQbpGNHcaZXxwI7RX5c/view?usp=drivesdk)
+![電飯煲](https://drive.usercontent.google.com/download?id=1T2ulYOPjkrZHuyQbpGNHcaZXxwI7RX5c)
